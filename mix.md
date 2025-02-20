@@ -4,7 +4,7 @@ Google <br> <picture><source srcset="img/logo_light.png" media="(prefers-color-s
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/logo.png">
+      <source media="(prefers-color-scheme: dark)" srcset="img/logo_light.png">
       <source media="(prefers-color-scheme: light)" srcset="img/logo.png">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="img/logo.png">
     </picture>
@@ -14,7 +14,7 @@ Google <br> <picture><source srcset="img/logo_light.png" media="(prefers-color-s
 <a href="https://google.com">
 Goog
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/logo.png">
+      <source media="(prefers-color-scheme: dark)" srcset="img/logo_light.png">
       <source media="(prefers-color-scheme: light)" srcset="img/logo.png">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="img/logo.png">
     </picture>
