@@ -1,12 +1,12 @@
 <p align="center">
-<link href="https://google.com">
+<a href="https://google.com">
 Goog
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="img/logo_light.png">
       <source media="(prefers-color-scheme: light)" srcset="img/logo.png">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="img/logo.png">
     </picture>
-</link>
+</a>
 </p>
 
 Google <br> <picture><source srcset="img/logo_light.png" media="(prefers-color-scheme: dark)"><a href="https://google.com/"><img src="img/logo.png" alt="Google" width="50"></a></picture>
